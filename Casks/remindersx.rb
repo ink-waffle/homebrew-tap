@@ -1,8 +1,8 @@
 cask "remindersx" do
   version "1.0"
-  sha256 "4049d23d146f72841a5165cc71bd94341644b26d74e82be9688ba09da93a3327"
+  sha256 "316c71ba859d3f4c9cdf09df128251c8fe0f27e8fc7b34bb0ebc9f837769c5bb"
 
-  url "file://#{Dir.home}/RemindersX/build/RemindersX-#{version}.zip"
+  url "https://github.com/ink-waffle/remindersx/releases/download/v#{version}/RemindersX-#{version}.zip"
   name "RemindersX"
   desc "Charts of your completed Apple Reminders in the menu bar"
   homepage "https://github.com/ink-waffle/remindersx"
