@@ -1,6 +1,6 @@
 cask "healthchecksx" do
-  version "1.0"
-  sha256 "0bed0b4f8f920a83bce9d3b1b20465905acbc090aaed2367238cdb8818a7a249"
+  version "1.1"
+  sha256 "7845337415d5ffb3b7434df3d121e7ccbf6c69a7fd4586e06f5dfa05ed692704"
 
   url "https://github.com/ink-waffle/healthchecksx/releases/download/v#{version}/HealthchecksX-#{version}.zip"
   name "HealthchecksX"
